@@ -2,6 +2,6 @@
 
 🖐️ Hi! I'm Nay and I'm currently learning to code.
 
-🚀 This is the the first basic project of the Fullstack Bootcamp at PeñascalF5.
+🚀 This is the the first basic project of the Fullstack Bootcamp at PeñascalF5 with Html and Css.
 
 ✈️ Welcome to my journey.
